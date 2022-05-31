@@ -1,0 +1,15 @@
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\bin\Debug\net6.0\Dieta_de_Peso.exe
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\bin\Debug\net6.0\Dieta_de_Peso.deps.json
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\bin\Debug\net6.0\Dieta_de_Peso.runtimeconfig.json
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\bin\Debug\net6.0\Dieta_de_Peso.dll
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\bin\Debug\net6.0\Dieta_de_Peso.pdb
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\obj\Debug\net6.0\Dieta_de_Peso.csproj.AssemblyReference.cache
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\obj\Debug\net6.0\Dieta_de_Peso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\obj\Debug\net6.0\Dieta_de_Peso.AssemblyInfoInputs.cache
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\obj\Debug\net6.0\Dieta_de_Peso.AssemblyInfo.cs
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\obj\Debug\net6.0\Dieta_de_Peso.csproj.CoreCompileInputs.cache
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\obj\Debug\net6.0\Dieta_de_Peso.dll
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\obj\Debug\net6.0\refint\Dieta_de_Peso.dll
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\obj\Debug\net6.0\Dieta_de_Peso.pdb
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\obj\Debug\net6.0\Dieta_de_Peso.genruntimeconfig.cache
+C:\Users\Saurus\source\repos\Dieta_de_Peso\Dieta_de_Peso\obj\Debug\net6.0\ref\Dieta_de_Peso.dll
